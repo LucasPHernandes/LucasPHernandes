@@ -19,7 +19,7 @@
     │   │   └── studying photography in free time
     │   ├── communication advisor
     │   │   └── at /federal_institution
-    │   ├── computer science student (1° semester)
+    │   ├── computer science student (2° semester)
     │   └── working on personal projects
     │       └── includes web development and content creation
     │
